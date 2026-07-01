@@ -1,0 +1,23 @@
+# Kata Step By Step — Content Bundle
+
+This repository hosts the content manifest and update bundles for the 
+[Kata Step By Step](https://katastepbystep.com) mobile app.
+
+## Files
+
+- `app_manifest.json` — version manifest checked by the app on startup
+- `kata.json` — kata records (150 kata across 10 styles)
+- `styles.json` — karate style definitions
+- `masters.json` — karate master profiles
+- `glossary.json` — technique terminology
+- `history.json` — karate history articles
+- `reference.json` — reference content
+- `downloads.json` — downloadable resources
+
+## About
+
+The app checks this manifest periodically to detect content updates.
+When a new version is available, users are prompted to download the 
+updated bundle within the app.
+
+This content is maintained by Mark Loftus at katastepbystep.com.
