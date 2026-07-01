@@ -1,0 +1,3632 @@
+[
+  {
+    "id": "arigato-gozaimasu-arigato",
+    "term": "arigato-gozaimasu / arigato",
+    "definition": "thank you very much / thank you",
+    "category": "General"
+  },
+  {
+    "id": "ate-waza",
+    "term": "ate-waza",
+    "definition": "hitting techniques",
+    "category": "General"
+  },
+  {
+    "id": "bunkai",
+    "term": "bunkai",
+    "definition": "to break down",
+    "category": "General"
+  },
+  {
+    "id": "bushido",
+    "term": "bushido",
+    "definition": "the way of the warrior / samurai",
+    "category": "General"
+  },
+  {
+    "id": "dan",
+    "term": "dan",
+    "definition": "(black belt) level",
+    "category": "General"
+  },
+  {
+    "id": "d-j-dojo",
+    "term": "dōjō / dojo",
+    "definition": "place of learning",
+    "category": "General"
+  },
+  {
+    "id": "hai",
+    "term": "hai",
+    "definition": "yes",
+    "category": "General"
+  },
+  {
+    "id": "hajime",
+    "term": "hajime",
+    "definition": "start",
+    "category": "General"
+  },
+  {
+    "id": "hikite",
+    "term": "hikite",
+    "definition": "fist pullback",
+    "category": "General"
+  },
+  {
+    "id": "iie",
+    "term": "iie",
+    "definition": "no",
+    "category": "General"
+  },
+  {
+    "id": "kaishu",
+    "term": "kaishu",
+    "definition": "open hand technique",
+    "category": "General"
+  },
+  {
+    "id": "karate",
+    "term": "karate",
+    "definition": "empty hand",
+    "category": "General"
+  },
+  {
+    "id": "karate-do",
+    "term": "karate-do",
+    "definition": "the karate way",
+    "category": "General"
+  },
+  {
+    "id": "karate-ka",
+    "term": "karate-ka",
+    "definition": "student of karate",
+    "category": "General"
+  },
+  {
+    "id": "kata",
+    "term": "kata",
+    "definition": "form",
+    "category": "General"
+  },
+  {
+    "id": "kekomi",
+    "term": "kekomi",
+    "definition": "thrust kick, e.g. mae geri kekomi",
+    "category": "General"
+  },
+  {
+    "id": "keri",
+    "term": "keri",
+    "definition": "kick",
+    "category": "General"
+  },
+  {
+    "id": "keri-komi-kekomi",
+    "term": "keri-komi, kekomi",
+    "definition": "thrust kick",
+    "category": "General"
+  },
+  {
+    "id": "keriwaza",
+    "term": "keriwaza",
+    "definition": "kicking techniques",
+    "category": "General"
+  },
+  {
+    "id": "kiai",
+    "term": "kiai",
+    "definition": "fighting shout",
+    "category": "General"
+  },
+  {
+    "id": "kikai",
+    "term": "kikai",
+    "definition": "opportunity",
+    "category": "General"
+  },
+  {
+    "id": "kime",
+    "term": "kime",
+    "definition": "focus /energy",
+    "category": "General"
+  },
+  {
+    "id": "kumite",
+    "term": "kumite",
+    "definition": "sparring",
+    "category": "General"
+  },
+  {
+    "id": "mokuso",
+    "term": "mokuso",
+    "definition": "close eyes",
+    "category": "General"
+  },
+  {
+    "id": "mokuso-yamate",
+    "term": "mokuso-yamate",
+    "definition": "open eyes",
+    "category": "General"
+  },
+  {
+    "id": "narande-narabe",
+    "term": "narande / narabe",
+    "definition": "line up",
+    "category": "General"
+  },
+  {
+    "id": "obi",
+    "term": "obi",
+    "definition": "belt",
+    "category": "General"
+  },
+  {
+    "id": "ossu-oss",
+    "term": "ossu / oss",
+    "definition": "no translation noise of acknowledgement",
+    "category": "General"
+  },
+  {
+    "id": "otagai-ni-rei",
+    "term": "otagai-ni-rei",
+    "definition": "bow to each other",
+    "category": "General"
+  },
+  {
+    "id": "rei",
+    "term": "rei",
+    "definition": "bow",
+    "category": "General"
+  },
+  {
+    "id": "seiza",
+    "term": "seiza",
+    "definition": "kneel",
+    "category": "General"
+  },
+  {
+    "id": "senpai-sempai",
+    "term": "senpai / sempai",
+    "definition": "senior student",
+    "category": "General"
+  },
+  {
+    "id": "sensei",
+    "term": "sensei",
+    "definition": "teacher",
+    "category": "General"
+  },
+  {
+    "id": "sensei-ni-rei",
+    "term": "sensei-ni-rei",
+    "definition": "bow to sensei",
+    "category": "General"
+  },
+  {
+    "id": "shomen-ni-rei",
+    "term": "shomen-ni-rei",
+    "definition": "bow to the front",
+    "category": "General"
+  },
+  {
+    "id": "shotokan",
+    "term": "shotokan",
+    "definition": "hall of pine waves",
+    "category": "General"
+  },
+  {
+    "id": "sukui",
+    "term": "sukui",
+    "definition": "scoop",
+    "category": "General"
+  },
+  {
+    "id": "tatami",
+    "term": "tatami",
+    "definition": "(dojo) mat",
+    "category": "General"
+  },
+  {
+    "id": "tate",
+    "term": "tate",
+    "definition": "vertical",
+    "category": "General"
+  },
+  {
+    "id": "waza",
+    "term": "waza",
+    "definition": "technique",
+    "category": "General"
+  },
+  {
+    "id": "yame",
+    "term": "yame",
+    "definition": "stop",
+    "category": "General"
+  },
+  {
+    "id": "yoi",
+    "term": "yoi",
+    "definition": "get ready",
+    "category": "General"
+  },
+  {
+    "id": "yubi-waza",
+    "term": "yubi-waza",
+    "definition": "finger techniques",
+    "category": "General"
+  },
+  {
+    "id": "chudan",
+    "term": "chudan",
+    "definition": "mid-level / chest height",
+    "category": "Anatomy"
+  },
+  {
+    "id": "empi-hiji",
+    "term": "empi / hiji",
+    "definition": "elbow",
+    "category": "Anatomy"
+  },
+  {
+    "id": "gaiwan",
+    "term": "gaiwan",
+    "definition": "outside arm",
+    "category": "Anatomy"
+  },
+  {
+    "id": "ganken",
+    "term": "ganken",
+    "definition": "rock fist",
+    "category": "Anatomy"
+  },
+  {
+    "id": "gedan",
+    "term": "gedan",
+    "definition": "lower level / lower body height",
+    "category": "Anatomy"
+  },
+  {
+    "id": "haiwan",
+    "term": "haiwan",
+    "definition": "back of the arm",
+    "category": "Anatomy"
+  },
+  {
+    "id": "hara",
+    "term": "hara",
+    "definition": "lower abdomen",
+    "category": "Anatomy"
+  },
+  {
+    "id": "jodan",
+    "term": "jodan",
+    "definition": "high level/head height",
+    "category": "Anatomy"
+  },
+  {
+    "id": "shuwan",
+    "term": "shuwan",
+    "definition": "underside of arm",
+    "category": "Anatomy"
+  },
+  {
+    "id": "soete",
+    "term": "soete",
+    "definition": "open hand",
+    "category": "Anatomy"
+  },
+  {
+    "id": "sokutei",
+    "term": "sokutei",
+    "definition": "inside edge of foot",
+    "category": "Anatomy"
+  },
+  {
+    "id": "sokuto",
+    "term": "sokuto",
+    "definition": "side of foot",
+    "category": "Anatomy"
+  },
+  {
+    "id": "te",
+    "term": "te",
+    "definition": "hand",
+    "category": "Anatomy"
+  },
+  {
+    "id": "tsumasaki",
+    "term": "tsumasaki",
+    "definition": "tiptoe",
+    "category": "Anatomy"
+  },
+  {
+    "id": "uraken",
+    "term": "uraken",
+    "definition": "back of fist",
+    "category": "Anatomy"
+  },
+  {
+    "id": "hidari",
+    "term": "hidari",
+    "definition": "left",
+    "category": "Directions"
+  },
+  {
+    "id": "mae",
+    "term": "mae",
+    "definition": "front",
+    "category": "Directions"
+  },
+  {
+    "id": "migi",
+    "term": "migi",
+    "definition": "right",
+    "category": "Directions"
+  },
+  {
+    "id": "shomen",
+    "term": "shomen",
+    "definition": "front",
+    "category": "Directions"
+  },
+  {
+    "id": "sokumen",
+    "term": "sokumen",
+    "definition": "to the left or right",
+    "category": "Directions"
+  },
+  {
+    "id": "soto",
+    "term": "soto",
+    "definition": "outside",
+    "category": "Directions"
+  },
+  {
+    "id": "ura",
+    "term": "ura",
+    "definition": "back",
+    "category": "Directions"
+  },
+  {
+    "id": "ushiro",
+    "term": "ushiro",
+    "definition": "back/backwards",
+    "category": "Directions"
+  },
+  {
+    "id": "yoko",
+    "term": "yoko",
+    "definition": "side",
+    "category": "Directions"
+  },
+  {
+    "id": "age-uke",
+    "term": "age-uke",
+    "definition": "rising block",
+    "category": "Blocks"
+  },
+  {
+    "id": "awase-shuto-age-uke",
+    "term": "awase-shuto-age-uke",
+    "definition": "two handed knife hand rising block",
+    "category": "Blocks"
+  },
+  {
+    "id": "awase-uke",
+    "term": "awase-uke",
+    "definition": "supported block",
+    "category": "Blocks"
+  },
+  {
+    "id": "bassai-uke",
+    "term": "bassai-uke",
+    "definition": "both palms grasping block",
+    "category": "Blocks"
+  },
+  {
+    "id": "chudan-soto-mawashi-uke",
+    "term": "chudan-soto-mawashi-uke",
+    "definition": "middle sideward round block",
+    "category": "Blocks"
+  },
+  {
+    "id": "chudan-soto-uke",
+    "term": "chudan-soto-uke",
+    "definition": "middle outward block",
+    "category": "Blocks"
+  },
+  {
+    "id": "chudan-uchi-uke",
+    "term": "chudan-uchi-uke",
+    "definition": "middle inward block",
+    "category": "Blocks"
+  },
+  {
+    "id": "chudan-yoko-uke",
+    "term": "chudan-yoko-uke",
+    "definition": "middle sideward block",
+    "category": "Blocks"
+  },
+  {
+    "id": "empi-uke",
+    "term": "empi-uke",
+    "definition": "elbow block",
+    "category": "Blocks"
+  },
+  {
+    "id": "gaiho-uchi-uke",
+    "term": "gaiho (uchi)-uke",
+    "definition": "from the inside out",
+    "category": "Blocks"
+  },
+  {
+    "id": "gaiwan-uke",
+    "term": "gaiwan-uke",
+    "definition": "block with outer side of arm",
+    "category": "Blocks"
+  },
+  {
+    "id": "gassho-uke",
+    "term": "gassho-uke",
+    "definition": "lower level double palm heel block",
+    "category": "Blocks"
+  },
+  {
+    "id": "gedan-barai",
+    "term": "gedan-barai",
+    "definition": "downward block",
+    "category": "Blocks"
+  },
+  {
+    "id": "gedan-uke",
+    "term": "gedan-uke",
+    "definition": "downward block",
+    "category": "Blocks"
+  },
+  {
+    "id": "gedan-yoko-barai-uke",
+    "term": "gedan-yoko-barai-uke",
+    "definition": "lower sideward sweeping block",
+    "category": "Blocks"
+  },
+  {
+    "id": "gosoku-uke",
+    "term": "gosoku-uke",
+    "definition": "two handed block (chudan and gedan)",
+    "category": "Blocks"
+  },
+  {
+    "id": "gyaku-soto-uke",
+    "term": "gyaku-soto-uke",
+    "definition": "reverse outside block",
+    "category": "Blocks"
+  },
+  {
+    "id": "gyaku-tate-shuto-uke",
+    "term": "gyaku-tate-shuto-uke",
+    "definition": "gyaku vertical knife hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "gyaku-uchi-uke",
+    "term": "gyaku-uchi-uke",
+    "definition": "inside block",
+    "category": "Blocks"
+  },
+  {
+    "id": "haishu-awase-uke",
+    "term": "haishu-awase-uke",
+    "definition": "back hand combined block",
+    "category": "Blocks"
+  },
+  {
+    "id": "haishu-juji-uke",
+    "term": "haishu-juji-uke",
+    "definition": "back hand both fists cross block (x block)",
+    "category": "Blocks"
+  },
+  {
+    "id": "haishu-uke",
+    "term": "haishu-uke",
+    "definition": "back hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "haisoku-uke",
+    "term": "haisoku-uke",
+    "definition": "block using base of foot",
+    "category": "Blocks"
+  },
+  {
+    "id": "haito-sukui-uke",
+    "term": "haito-sukui-uke",
+    "definition": "ridge hand scooping block",
+    "category": "Blocks"
+  },
+  {
+    "id": "haito-uke",
+    "term": "haito-uke",
+    "definition": "ridge hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "haiwan-uchi-nagashi-uke",
+    "term": "haiwan-uchi-nagashi-uke",
+    "definition": "back arm inside flowing block",
+    "category": "Blocks"
+  },
+  {
+    "id": "haiwan-uke",
+    "term": "haiwan-uke",
+    "definition": "back of forearm block",
+    "category": "Blocks"
+  },
+  {
+    "id": "hajiki-uke",
+    "term": "hajiki-uke",
+    "definition": "twisting forearm block",
+    "category": "Blocks"
+  },
+  {
+    "id": "hangetsu-barai-uke",
+    "term": "hangetsu-barai-uke",
+    "definition": "half moon sweeping block",
+    "category": "Blocks"
+  },
+  {
+    "id": "harai-uke",
+    "term": "harai-uke",
+    "definition": "sweep forearm block",
+    "category": "Blocks"
+  },
+  {
+    "id": "hari-uke",
+    "term": "hari-uke",
+    "definition": "sweeping block",
+    "category": "Blocks"
+  },
+  {
+    "id": "hasami-uke",
+    "term": "hasami-uke",
+    "definition": "scissors block",
+    "category": "Blocks"
+  },
+  {
+    "id": "hazushi-uke",
+    "term": "hazushi-uke",
+    "definition": "removing block",
+    "category": "Blocks"
+  },
+  {
+    "id": "hiji-barai",
+    "term": "hiji-barai",
+    "definition": "sweeping elbow block",
+    "category": "Blocks"
+  },
+  {
+    "id": "hiji-sasae-uke",
+    "term": "hiji-sasae-uke-",
+    "definition": "supported elbow block",
+    "category": "Blocks"
+  },
+  {
+    "id": "hiji-uke",
+    "term": "hiji-uke",
+    "definition": "elbow block",
+    "category": "Blocks"
+  },
+  {
+    "id": "hineri-uke",
+    "term": "hineri-uke",
+    "definition": "twisting forearm block",
+    "category": "Blocks"
+  },
+  {
+    "id": "hirate-osae-uke",
+    "term": "hirate-osae-uke",
+    "definition": "slapping pressing block",
+    "category": "Blocks"
+  },
+  {
+    "id": "hiza-uke",
+    "term": "hiza-uke",
+    "definition": "block with skin",
+    "category": "Blocks"
+  },
+  {
+    "id": "jo-chu-awase-uke",
+    "term": "jo-chu-awase-uke",
+    "definition": "level outside knife hand strike",
+    "category": "Blocks"
+  },
+  {
+    "id": "jodan-uke-age-uke",
+    "term": "jodan-uke / age-uke",
+    "definition": "upper level block/rising block",
+    "category": "Blocks"
+  },
+  {
+    "id": "joge-uke",
+    "term": "joge-uke",
+    "definition": "double block (high & low simultaneous block)",
+    "category": "Blocks"
+  },
+  {
+    "id": "juji-uke",
+    "term": "juji-uke",
+    "definition": "lower both fists cross block (x block)",
+    "category": "Blocks"
+  },
+  {
+    "id": "kaisho-kosa-uke",
+    "term": "kaisho-kosa-uke",
+    "definition": "both palms crossing block (x block)",
+    "category": "Blocks"
+  },
+  {
+    "id": "kake-shuto-uke",
+    "term": "kake-shuto-uke",
+    "definition": "open hand hook block",
+    "category": "Blocks"
+  },
+  {
+    "id": "kakete-uke",
+    "term": "kakete-uke",
+    "definition": "hand grabbing hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "kake-uke",
+    "term": "kake-uke",
+    "definition": "hook block",
+    "category": "Blocks"
+  },
+  {
+    "id": "kakiwake-uke",
+    "term": "kakiwake-uke",
+    "definition": "both fists wedge block",
+    "category": "Blocks"
+  },
+  {
+    "id": "kakuto-uke",
+    "term": "kakuto-uke",
+    "definition": "outer back hand wrist joint block",
+    "category": "Blocks"
+  },
+  {
+    "id": "kasui-ken-uchi-uke",
+    "term": "kasui-ken (uchi-uke)",
+    "definition": "side inside block",
+    "category": "Blocks"
+  },
+  {
+    "id": "keito-uke",
+    "term": "keito-uke",
+    "definition": "chicken head wrist block (woodpecker posture)",
+    "category": "Blocks"
+  },
+  {
+    "id": "ken-sasae-uke",
+    "term": "ken-sasae-uke",
+    "definition": "supported block down",
+    "category": "Blocks"
+  },
+  {
+    "id": "koken-uke-kokute-kakute",
+    "term": "koken-uke (kokute / kakute)",
+    "definition": "bent wrist block",
+    "category": "Blocks"
+  },
+  {
+    "id": "koko-morote-uke",
+    "term": "koko-morote-uke",
+    "definition": "two handed block",
+    "category": "Blocks"
+  },
+  {
+    "id": "koko-sukui-uke",
+    "term": "koko-sukui-uke",
+    "definition": "tiger mouth scooping block",
+    "category": "Blocks"
+  },
+  {
+    "id": "kosa-uke",
+    "term": "kosa-uke",
+    "definition": "cross hand double block",
+    "category": "Blocks"
+  },
+  {
+    "id": "kote-uke",
+    "term": "kote-uke",
+    "definition": "back of hand (or arm) block",
+    "category": "Blocks"
+  },
+  {
+    "id": "magetori-barai-uke",
+    "term": "magetori-barai-uke",
+    "definition": "rising double knife hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "makite-uke",
+    "term": "makite-uke",
+    "definition": "winding knife hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "manji-uke",
+    "term": "manji-uke",
+    "definition": "swirling posture block (upper forearm block, lower sweeping block)",
+    "category": "Blocks"
+  },
+  {
+    "id": "mawashi-gedan-barai",
+    "term": "mawashi-gedan-barai",
+    "definition": "wide outside arm sweep (block)",
+    "category": "Blocks"
+  },
+  {
+    "id": "mawashi-kake-uke",
+    "term": "mawashi-kake-uke",
+    "definition": "circular hooking block",
+    "category": "Blocks"
+  },
+  {
+    "id": "mawashi-shuto-uke",
+    "term": "mawashi-shuto-uke",
+    "definition": "circular sweeping knife hand bisecting palm",
+    "category": "Blocks"
+  },
+  {
+    "id": "mawashi-uke",
+    "term": "mawashi-uke",
+    "definition": "two-handed spinning and circular technique (round block)",
+    "category": "Blocks"
+  },
+  {
+    "id": "morote-age-uke",
+    "term": "morote-age-uke",
+    "definition": "double rising block",
+    "category": "Blocks"
+  },
+  {
+    "id": "morote-barai-uke",
+    "term": "morote-barai-uke",
+    "definition": "augmented lower block",
+    "category": "Blocks"
+  },
+  {
+    "id": "morote-gedan-barai",
+    "term": "morote-gedan-barai",
+    "definition": "double downward block",
+    "category": "Blocks"
+  },
+  {
+    "id": "morote-gedan-uke",
+    "term": "morote-gedan-uke",
+    "definition": "two handed downward block",
+    "category": "Blocks"
+  },
+  {
+    "id": "morote-haiwan-uke",
+    "term": "morote-haiwan-uke",
+    "definition": "supported back of forearm block",
+    "category": "Blocks"
+  },
+  {
+    "id": "morote-jo-uke",
+    "term": "morote-jo-uke",
+    "definition": "double handed staff (stick block)",
+    "category": "Blocks"
+  },
+  {
+    "id": "morote-jo-zuki-dachi",
+    "term": "morote-jo-zuki-dachi",
+    "definition": "double staff repel",
+    "category": "Blocks"
+  },
+  {
+    "id": "morote-kaishu-gedan-uke",
+    "term": "morote-kaishu-gedan-uke",
+    "definition": "two handed downward block",
+    "category": "Blocks"
+  },
+  {
+    "id": "morote-kakuto-uke",
+    "term": "morote-kakuto-uke",
+    "definition": "double outer back hand wrist joint block",
+    "category": "Blocks"
+  },
+  {
+    "id": "morote-keito-uke",
+    "term": "morote-keito-uke",
+    "definition": "double chicken head wrist block",
+    "category": "Blocks"
+  },
+  {
+    "id": "morote-koko-game",
+    "term": "morote-koko-game",
+    "definition": "side both palms grasping block (tiger mouth block)",
+    "category": "Blocks"
+  },
+  {
+    "id": "moro-tekosa-uke",
+    "term": "moro-tekosa-uke",
+    "definition": "double block",
+    "category": "Blocks"
+  },
+  {
+    "id": "morote-shuto-uke",
+    "term": "morote-shuto-uke",
+    "definition": "double lower knife hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "morote-soe-uke",
+    "term": "morote-soe-uke",
+    "definition": "augmented forearm block, wedge block",
+    "category": "Blocks"
+  },
+  {
+    "id": "morote-tate-haiwan-uke",
+    "term": "morote-tate-haiwan-uke",
+    "definition": "supported back of forearm block",
+    "category": "Blocks"
+  },
+  {
+    "id": "morote-tate-shuto-uke",
+    "term": "morote-tate-shuto-uke",
+    "definition": "double vertical knife hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "morote-teisho-uke",
+    "term": "morote-teisho-uke",
+    "definition": "double lower palm heel block",
+    "category": "Blocks"
+  },
+  {
+    "id": "morote-uke",
+    "term": "morote-uke",
+    "definition": "augmented block",
+    "category": "Blocks"
+  },
+  {
+    "id": "nagashi-uke",
+    "term": "nagashi-uke",
+    "definition": "sweeping block",
+    "category": "Blocks"
+  },
+  {
+    "id": "naiwan-uke",
+    "term": "naiwan-uke",
+    "definition": "inner arm block",
+    "category": "Blocks"
+  },
+  {
+    "id": "nihon-nukite-uchi-uke",
+    "term": "nihon-nukite-uchi-uke",
+    "definition": "two finger spear hand inside block",
+    "category": "Blocks"
+  },
+  {
+    "id": "ninoude-uke",
+    "term": "ninoude-uke",
+    "definition": "block with the upper arm",
+    "category": "Blocks"
+  },
+  {
+    "id": "ofuri-kosa-barai",
+    "term": "ofuri-kosa-barai",
+    "definition": "swing cross arm sweep",
+    "category": "Blocks"
+  },
+  {
+    "id": "osae-uke",
+    "term": "osae-uke",
+    "definition": "pressing block",
+    "category": "Blocks"
+  },
+  {
+    "id": "otoshi-uke",
+    "term": "otoshi-uke",
+    "definition": "dropping block",
+    "category": "Blocks"
+  },
+  {
+    "id": "ryo-hiji-harai-age",
+    "term": "ryo-hiji-harai-age",
+    "definition": "double rising elbow sweep",
+    "category": "Blocks"
+  },
+  {
+    "id": "ryoken-kosa-uke-juji-uke",
+    "term": "ryoken-kosa-uke (juji-uke)",
+    "definition": "both fists cross block (x block)",
+    "category": "Blocks"
+  },
+  {
+    "id": "ryosho-jo-uke-suihei-jo-dori",
+    "term": "ryosho-jo-uke & suihei-jo-dori",
+    "definition": "both palms stick block & horizontal stick grab",
+    "category": "Blocks"
+  },
+  {
+    "id": "ryosho-koho-awase-uke-ryosho-juji-awase-uke",
+    "term": "ryosho-koho-awase-uke & ryosho-juji-awase-uke",
+    "definition": "pressing block behind & combined backhand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "ryosho-tsukami-uke-bassai-uke",
+    "term": "ryosho-tsukami-uke (bassai-uke)",
+    "definition": "both palms grasping block",
+    "category": "Blocks"
+  },
+  {
+    "id": "ryo-teisho-awase-gedan-uke-gassho-uke",
+    "term": "ryo-teisho-awase-gedan-uke (gassho-uke)",
+    "definition": "palm heels combined downward block (joined palm block)",
+    "category": "Blocks"
+  },
+  {
+    "id": "ryo-ude-mawashi-uke",
+    "term": "ryo-ude-mawashi-uke",
+    "definition": "double arm circular block",
+    "category": "Blocks"
+  },
+  {
+    "id": "ryowan-haito-uke",
+    "term": "ryowan-haito-uke",
+    "definition": "double hand strike",
+    "category": "Blocks"
+  },
+  {
+    "id": "ryowan-kakiwake-uke",
+    "term": "ryowan-kakiwake-uke",
+    "definition": "lower both fists wedge block",
+    "category": "Blocks"
+  },
+  {
+    "id": "ryowan-uchi-uke",
+    "term": "ryowan-uchi-uke",
+    "definition": "double inside block",
+    "category": "Blocks"
+  },
+  {
+    "id": "ryo-zenwan-hasami-uke",
+    "term": "ryo-zenwan-hasami-uke",
+    "definition": "both forearms scissors block",
+    "category": "Blocks"
+  },
+  {
+    "id": "sagurite-uke",
+    "term": "sagurite-uke",
+    "definition": "searching hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "sasae-uke",
+    "term": "sasae-uke",
+    "definition": "supported forearm block",
+    "category": "Blocks"
+  },
+  {
+    "id": "sashi-ashi-hasami-uke",
+    "term": "sashi-ashi & hasami-uke",
+    "definition": "stepping forward in scissors block form twice",
+    "category": "Blocks"
+  },
+  {
+    "id": "sayu-barai-uke",
+    "term": "sayu-barai-uke",
+    "definition": "double sweeping block",
+    "category": "Blocks"
+  },
+  {
+    "id": "seiryuto-uke",
+    "term": "seiryuto-uke",
+    "definition": "wrist bone block or an ox jaw block",
+    "category": "Blocks"
+  },
+  {
+    "id": "shotei-uke",
+    "term": "shotei-uke",
+    "definition": "palm heel block",
+    "category": "Blocks"
+  },
+  {
+    "id": "shuto-gedan-barai",
+    "term": "shuto-gedan-barai",
+    "definition": "downward knife hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "shuto-kake-uke",
+    "term": "shuto-kake-uke",
+    "definition": "knife hand hooking block",
+    "category": "Blocks"
+  },
+  {
+    "id": "shuto-kakiwake-uke",
+    "term": "shuto-kakiwake-uke",
+    "definition": "double open hand hook block",
+    "category": "Blocks"
+  },
+  {
+    "id": "shuto-mawashi-uke",
+    "term": "shuto-mawashi-uke",
+    "definition": "knife hand roundhouse block",
+    "category": "Blocks"
+  },
+  {
+    "id": "shuto-nagashi-uke-ryu-un-no-uke",
+    "term": "shuto-nagashi-uke (ryu-un-no-uke)",
+    "definition": "knife hand flowing block (flowing cloud block)",
+    "category": "Blocks"
+  },
+  {
+    "id": "shuto-osae",
+    "term": "shuto-osae",
+    "definition": "downward knife hand press",
+    "category": "Blocks"
+  },
+  {
+    "id": "shuto-uke",
+    "term": "shuto-uke",
+    "definition": "knife hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "shuwan-uke",
+    "term": "shuwan-uke",
+    "definition": "block with the underside of the arm",
+    "category": "Blocks"
+  },
+  {
+    "id": "soesho-kaeshi-ude",
+    "term": "soesho-kaeshi-ude",
+    "definition": "forearm twist block under palm",
+    "category": "Blocks"
+  },
+  {
+    "id": "soete-kake-dori",
+    "term": "soete-kake-dori",
+    "definition": "augmented hooking grasping block",
+    "category": "Blocks"
+  },
+  {
+    "id": "soete-sokumen-uke",
+    "term": "soete-sokumen-uke",
+    "definition": "sideways augmented inside block",
+    "category": "Blocks"
+  },
+  {
+    "id": "sokumen-awase-uke",
+    "term": "sokumen-awase-uke",
+    "definition": "side defence with both hands",
+    "category": "Blocks"
+  },
+  {
+    "id": "sokumen-gedan-barai",
+    "term": "sokumen-gedan-barai",
+    "definition": "side downward block",
+    "category": "Blocks"
+  },
+  {
+    "id": "sokumen-gedan-shuto-barai",
+    "term": "sokumen-gedan-shuto-barai",
+    "definition": "side gedan knife hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "sokumenhaito-uke",
+    "term": "sokumenhaito-uke",
+    "definition": "side ridge hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "sokumen-soete-uchi-uke",
+    "term": "sokumen-soete-uchi-uke",
+    "definition": "sideways supported inner block",
+    "category": "Blocks"
+  },
+  {
+    "id": "sokumen-tate-shuto-uke",
+    "term": "sokumen-tate-shuto-uke",
+    "definition": "side vertical knife hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "sokumen-uchi-uke",
+    "term": "sokumen-uchi-uke",
+    "definition": "side lower inside block",
+    "category": "Blocks"
+  },
+  {
+    "id": "sokumen-uke",
+    "term": "sokumen-uke",
+    "definition": "side inside block (with support move on other hand)",
+    "category": "Blocks"
+  },
+  {
+    "id": "soto-nagashi-uke",
+    "term": "soto-nagashi-uke",
+    "definition": "outside flowing block",
+    "category": "Blocks"
+  },
+  {
+    "id": "soto-ude-uke",
+    "term": "soto-ude-uke",
+    "definition": "lower outer block",
+    "category": "Blocks"
+  },
+  {
+    "id": "soto-uke",
+    "term": "soto-uke",
+    "definition": "outside block",
+    "category": "Blocks"
+  },
+  {
+    "id": "suichoku-janpu-kaho-juji-uke",
+    "term": "suichoku-janpu & kaho-juji-uke",
+    "definition": "vertical jump & land with downward x block",
+    "category": "Blocks"
+  },
+  {
+    "id": "sukui-dome",
+    "term": "sukui-dome",
+    "definition": "scooping technique – capturing leg in hook of arm and scooping it away",
+    "category": "Blocks"
+  },
+  {
+    "id": "sukui-uke",
+    "term": "sukui-uke",
+    "definition": "lower scooping block",
+    "category": "Blocks"
+  },
+  {
+    "id": "sune-uke",
+    "term": "sune-uke",
+    "definition": "block with the tibia",
+    "category": "Blocks"
+  },
+  {
+    "id": "suri-uke",
+    "term": "suri-uke",
+    "definition": "elbow sliding block",
+    "category": "Blocks"
+  },
+  {
+    "id": "tata-shutouchi-uke-hiza-gamae",
+    "term": "tata-shutouchi-uke & hiza-gamae",
+    "definition": "vertical knife hand push (block) & knee raise",
+    "category": "Blocks"
+  },
+  {
+    "id": "tate-shuto-uke",
+    "term": "tate-shuto-uke",
+    "definition": "vertical knife hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "teisho-kakiwake-uke",
+    "term": "teisho-kakiwake-uke",
+    "definition": "double inner palm heel block",
+    "category": "Blocks"
+  },
+  {
+    "id": "teisho-morote-uke",
+    "term": "teisho-morote-uke",
+    "definition": "double palm heel block (at 45deg)",
+    "category": "Blocks"
+  },
+  {
+    "id": "teisho-osae-uke",
+    "term": "teisho-osae-uke",
+    "definition": "palm heel pressing block",
+    "category": "Blocks"
+  },
+  {
+    "id": "teisho-oshiage-uke",
+    "term": "teisho-oshiage-uke",
+    "definition": "palm heel pushing rising block",
+    "category": "Blocks"
+  },
+  {
+    "id": "teisho-uke",
+    "term": "teisho-uke",
+    "definition": "inner palm heel block",
+    "category": "Blocks"
+  },
+  {
+    "id": "tekubi-kake-uke",
+    "term": "tekubi-kake-uke",
+    "definition": "wrist block",
+    "category": "Blocks"
+  },
+  {
+    "id": "tekubi-makiotoshi-uke",
+    "term": "tekubi-makiotoshi-uke",
+    "definition": "wrist curling falling block",
+    "category": "Blocks"
+  },
+  {
+    "id": "te-nagashi-uke",
+    "term": "te-nagashi-uke",
+    "definition": "sweep hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "te-osae-uke",
+    "term": "te-osae-uke",
+    "definition": "pressing hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "torite-uke",
+    "term": "torite-uke",
+    "definition": "grasping hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "tsukami-uke",
+    "term": "tsukami-uke",
+    "definition": "grasping block",
+    "category": "Blocks"
+  },
+  {
+    "id": "tsukami-uke-koko-uke",
+    "term": "tsukami-uke (koko-uke)",
+    "definition": "grasping block (tiger mouth block)",
+    "category": "Blocks"
+  },
+  {
+    "id": "uchi-ashi-barai",
+    "term": "uchi-ashi-barai",
+    "definition": "sweep from the inside out",
+    "category": "Blocks"
+  },
+  {
+    "id": "uchi-uke",
+    "term": "uchi-uke",
+    "definition": "inside block",
+    "category": "Blocks"
+  },
+  {
+    "id": "ude-osae-uke",
+    "term": "ude-osae-uke",
+    "definition": "pressing block",
+    "category": "Blocks"
+  },
+  {
+    "id": "ude-sasae-uke",
+    "term": "ude-sasae-uke",
+    "definition": "supported block",
+    "category": "Blocks"
+  },
+  {
+    "id": "ude-uke",
+    "term": "ude-uke",
+    "definition": "inside block",
+    "category": "Blocks"
+  },
+  {
+    "id": "uke",
+    "term": "uke",
+    "definition": "block (to receive)",
+    "category": "Blocks"
+  },
+  {
+    "id": "uke-nagashi",
+    "term": "uke-nagashi",
+    "definition": "flowing receiving block",
+    "category": "Blocks"
+  },
+  {
+    "id": "ura-kake-uke",
+    "term": "ura-kake-uke",
+    "definition": "back-hand hook block",
+    "category": "Blocks"
+  },
+  {
+    "id": "ushiro-gedan-barai",
+    "term": "ushiro-gedan-barai",
+    "definition": "reverse downward block",
+    "category": "Blocks"
+  },
+  {
+    "id": "ushiro-gedan-uke",
+    "term": "ushiro-gedan-uke",
+    "definition": "reverse downward block",
+    "category": "Blocks"
+  },
+  {
+    "id": "ushiro-haishu-uke",
+    "term": "ushiro-haishu-uke",
+    "definition": "reverse back hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "ushiro-teisho-barai",
+    "term": "ushiro-teisho-barai",
+    "definition": "palm heel sweep to rear",
+    "category": "Blocks"
+  },
+  {
+    "id": "wari-uke",
+    "term": "wari-uke",
+    "definition": "split block",
+    "category": "Blocks"
+  },
+  {
+    "id": "wa-uke",
+    "term": "wa-uke",
+    "definition": "circular block across face",
+    "category": "Blocks"
+  },
+  {
+    "id": "yama-kakiwake-uke",
+    "term": "yama-kakiwake-uke",
+    "definition": "mountain posture wedge block (both fists raised in angle arm shape)",
+    "category": "Blocks"
+  },
+  {
+    "id": "yama-uke",
+    "term": "yama-uke",
+    "definition": "mountain posture wedge block (both fists raised in angle arm shape)",
+    "category": "Blocks"
+  },
+  {
+    "id": "yoko-haishu-uke",
+    "term": "yoko-haishu-uke",
+    "definition": "side back hand block",
+    "category": "Blocks"
+  },
+  {
+    "id": "yoko-hari-empi",
+    "term": "yoko-hari-empi",
+    "definition": "side sweeping block",
+    "category": "Blocks"
+  },
+  {
+    "id": "yoko-ude-hasami",
+    "term": "yoko-ude-hasami",
+    "definition": "side forearm scissor block",
+    "category": "Blocks"
+  },
+  {
+    "id": "yoko-uke",
+    "term": "yoko-uke",
+    "definition": "side block",
+    "category": "Blocks"
+  },
+  {
+    "id": "gyaku-te-dori",
+    "term": "gyaku-te-dori",
+    "definition": "grasping pulling back",
+    "category": "Grabs"
+  },
+  {
+    "id": "hazushi-te",
+    "term": "hazushi-te",
+    "definition": "pull away hand",
+    "category": "Grabs"
+  },
+  {
+    "id": "hiki-yose",
+    "term": "hiki-yose",
+    "definition": "pulling with hand",
+    "category": "Grabs"
+  },
+  {
+    "id": "hineri-kaeshi",
+    "term": "hineri-kaeshi",
+    "definition": "reinforced open hand high level pullback",
+    "category": "Grabs"
+  },
+  {
+    "id": "kaishu-juji-tori",
+    "term": "kaishu-juji-tori",
+    "definition": "open hand x grasp",
+    "category": "Grabs"
+  },
+  {
+    "id": "morote-hiki-otoshi",
+    "term": "morote-hiki-otoshi",
+    "definition": "two handed pull down",
+    "category": "Grabs"
+  },
+  {
+    "id": "morote-jo-dori",
+    "term": "morote-jo-dori",
+    "definition": "double staff grab (rising)",
+    "category": "Grabs"
+  },
+  {
+    "id": "morote-koko-dori",
+    "term": "morote-koko-dori",
+    "definition": "double rotating hand staff grab",
+    "category": "Grabs"
+  },
+  {
+    "id": "morote-kubi-osae",
+    "term": "morote-kubi-osae",
+    "definition": "two handed hold to head",
+    "category": "Grabs"
+  },
+  {
+    "id": "naiwan-sukui-nage",
+    "term": "naiwan-sukui-nage",
+    "definition": "inner arm scooping throw",
+    "category": "Grabs"
+  },
+  {
+    "id": "ryosho-tsukami-yose",
+    "term": "ryosho-tsukami-yose",
+    "definition": "both palms grasping pulling",
+    "category": "Grabs"
+  },
+  {
+    "id": "tsukami-dori",
+    "term": "tsukami-dori",
+    "definition": "grasping clutch",
+    "category": "Grabs"
+  },
+  {
+    "id": "ashi-dome",
+    "term": "ashi-dome",
+    "definition": "lower abdomen/groin stop kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "ashi-geri",
+    "term": "ashi-geri",
+    "definition": "kicks",
+    "category": "Kicks"
+  },
+  {
+    "id": "ebi-geri",
+    "term": "ebi-geri",
+    "definition": "upwards backwards kick from the ground",
+    "category": "Kicks"
+  },
+  {
+    "id": "fukubu-geri",
+    "term": "fukubu-geri",
+    "definition": "abdomen kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "fumikiri",
+    "term": "fumikiri",
+    "definition": "cutting kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "fumikomi-geri",
+    "term": "fumikomi-geri",
+    "definition": "stamping kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "gyaku-mawashi-geri",
+    "term": "gyaku-mawashi-geri",
+    "definition": "inverted semicircle kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "gyaku-mikazuki-geri",
+    "term": "gyaku-mikazuki-geri",
+    "definition": "reverse crescent moon kick (towards the outside)",
+    "category": "Kicks"
+  },
+  {
+    "id": "harai-fumikomi",
+    "term": "harai-fumikomi",
+    "definition": "sweeping stamping kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "hiza-geri",
+    "term": "hiza-geri",
+    "definition": "(pull down) knee strike",
+    "category": "Kicks"
+  },
+  {
+    "id": "kagi-geri",
+    "term": "kagi-geri",
+    "definition": "hook kick (reverse roundhouse)",
+    "category": "Kicks"
+  },
+  {
+    "id": "kakato-geri",
+    "term": "kakato-geri",
+    "definition": "axe kick (heel kick)",
+    "category": "Kicks"
+  },
+  {
+    "id": "kaku-geri",
+    "term": "kaku-geri",
+    "definition": "upwards angle front kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "kansetsu-geri",
+    "term": "kansetsu-geri",
+    "definition": "low side kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "kasei-mawashi-geri",
+    "term": "kasei-mawashi-geri",
+    "definition": "upwards roundhouse kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "kazami-mea-geri",
+    "term": "kazami-mea-geri",
+    "definition": "front leg kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "keage-keri-age",
+    "term": "keage / keri-age",
+    "definition": "rising kick, snap kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "kensei-yuka-geri",
+    "term": "kensei-yuka-geri",
+    "definition": "foot stamp distraction",
+    "category": "Kicks"
+  },
+  {
+    "id": "kesa-geri",
+    "term": "kesa-geri",
+    "definition": "front-kick turning into inside upper kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "kin-geri",
+    "term": "kin-geri",
+    "definition": "kick aimed to groin",
+    "category": "Kicks"
+  },
+  {
+    "id": "kinteki-geri",
+    "term": "kinteki-geri",
+    "definition": "groin kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "kisami-mae-geri",
+    "term": "kisami-mae-geri",
+    "definition": "front snapping kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "kyobu-geri",
+    "term": "kyobu-geri",
+    "definition": "chest area kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "mae-geri",
+    "term": "mae-geri",
+    "definition": "front kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "mae-geri-kakato",
+    "term": "mae-geri-kakato",
+    "definition": "front kick with the heel",
+    "category": "Kicks"
+  },
+  {
+    "id": "mae-geri-keage",
+    "term": "mae-geri-keage",
+    "definition": "front snap kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "mae-geri-kekomi",
+    "term": "mae-geri-kekomi",
+    "definition": "thrust foot forward",
+    "category": "Kicks"
+  },
+  {
+    "id": "mae-hiza-geri",
+    "term": "mae-hiza-geri",
+    "definition": "front knee kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "mae-ke-sage-ryosho-tsukamiyose",
+    "term": "mae-ke-sage & ryosho-tsukamiyose",
+    "definition": "front thrusting kick & both palms grasping pulling",
+    "category": "Kicks"
+  },
+  {
+    "id": "mae-tobi-geri",
+    "term": "mae-tobi-geri",
+    "definition": "flying front kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "mae-tobi-hiza-geri",
+    "term": "mae-tobi-hiza-geri",
+    "definition": "flying front knee kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "mawashi-geri",
+    "term": "mawashi-geri",
+    "definition": "round house kick with top of foot",
+    "category": "Kicks"
+  },
+  {
+    "id": "mawashi-hiza-geri",
+    "term": "mawashi-hiza-geri",
+    "definition": "circular knee kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "mawashi-tobi-hiza-geri",
+    "term": "mawashi-tobi-hiza-geri",
+    "definition": "flying circular knee kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "mikazuki-geri",
+    "term": "mikazuki-geri",
+    "definition": "crescent kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "nami-gaeshi",
+    "term": "nami-gaeshi",
+    "definition": "return wave kick (or avoid)",
+    "category": "Kicks"
+  },
+  {
+    "id": "nidan-geri",
+    "term": "nidan-geri",
+    "definition": "knee leading jumping kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "nidan-geri-tobi-mae-geri",
+    "term": "nidan-geri (tobi-mae-geri)",
+    "definition": "double jumping kick (jumping front kick)",
+    "category": "Kicks"
+  },
+  {
+    "id": "otoshi-geri",
+    "term": "otoshi-geri",
+    "definition": "dropping kick with the back of the heel (kakato).",
+    "category": "Kicks"
+  },
+  {
+    "id": "ren-geri",
+    "term": "ren-geri",
+    "definition": "kicking combinations",
+    "category": "Kicks"
+  },
+  {
+    "id": "sasori-geri",
+    "term": "sasori-geri",
+    "definition": "scorpion kick – leg swings backwards, up and over the shoulder",
+    "category": "Kicks"
+  },
+  {
+    "id": "senpu-tobi-geri-sempu-tobi-geri",
+    "term": "senpu-tobi-geri / sempu-tobi-geri",
+    "definition": "whirlwind jumping kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "sokumen-geri",
+    "term": "sokumen-geri",
+    "definition": "side kicks",
+    "category": "Kicks"
+  },
+  {
+    "id": "sokuto-geri",
+    "term": "sokuto-geri",
+    "definition": "sword foot’ kick – kicking with the blade of the foot",
+    "category": "Kicks"
+  },
+  {
+    "id": "sokuto-kekomi",
+    "term": "sokuto-kekomi",
+    "definition": "sword foot thrust kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "tobi-geri",
+    "term": "tobi-geri",
+    "definition": "jumping kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "tobi-ushiro-geri",
+    "term": "tobi-ushiro-geri",
+    "definition": "jumping back kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "tsumasaki-geri",
+    "term": "tsumasaki-geri",
+    "definition": "toe kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "uchi-mawashi-geri",
+    "term": "uchi-mawashi-geri",
+    "definition": "reverse roundhouse kick (aka gyaku mawashi-geri)",
+    "category": "Kicks"
+  },
+  {
+    "id": "ura-mawashi-geri",
+    "term": "ura-mawashi-geri",
+    "definition": "hook kick (reverse roundhouse)",
+    "category": "Kicks"
+  },
+  {
+    "id": "ura-mikazuki-geri",
+    "term": "ura-mikazuki-geri",
+    "definition": "reverse crescent kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "ushiro-geri",
+    "term": "ushiro-geri",
+    "definition": "reverse kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "ushiro-mawashi-geri",
+    "term": "ushiro-mawashi-geri",
+    "definition": "roundhouse kick backwards",
+    "category": "Kicks"
+  },
+  {
+    "id": "ushiro-tobi-geri",
+    "term": "ushiro-tobi-geri",
+    "definition": "jump kick backwards",
+    "category": "Kicks"
+  },
+  {
+    "id": "yoko-fumikomi",
+    "term": "yoko-fumikomi",
+    "definition": "stamping kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "yoko-geri",
+    "term": "yoko-geri",
+    "definition": "kick at side",
+    "category": "Kicks"
+  },
+  {
+    "id": "yoko-geri-keage",
+    "term": "yoko-geri-keage",
+    "definition": "side snap kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "yoko-geri-kekomi",
+    "term": "yoko-geri-kekomi",
+    "definition": "side thrusting kick",
+    "category": "Kicks"
+  },
+  {
+    "id": "yoko-tobi-geri",
+    "term": "yoko-tobi-geri",
+    "definition": "flying sidekick",
+    "category": "Kicks"
+  },
+  {
+    "id": "ashi-fumikae",
+    "term": "ashi-fumikae",
+    "definition": "simultaneous leg change",
+    "category": "Movements"
+  },
+  {
+    "id": "ashi-jiku-mawari",
+    "term": "ashi-jiku-mawari",
+    "definition": "foot pivot rotation",
+    "category": "Movements"
+  },
+  {
+    "id": "ayumi-ashi",
+    "term": "ayumi-ashi",
+    "definition": "almost like normal walking",
+    "category": "Movements"
+  },
+  {
+    "id": "chidori-ashi",
+    "term": "chidori-ashi",
+    "definition": "cross-step",
+    "category": "Movements"
+  },
+  {
+    "id": "engetsu-kaeshi",
+    "term": "engetsu-kaeshi",
+    "definition": "leg lift and rotate",
+    "category": "Movements"
+  },
+  {
+    "id": "gyaku-hanmi",
+    "term": "gyaku-hanmi",
+    "definition": "45deg hip twist",
+    "category": "Movements"
+  },
+  {
+    "id": "hanmi-sashi-ashi",
+    "term": "hanmi-sashi-ashi",
+    "definition": "stepping move",
+    "category": "Movements"
+  },
+  {
+    "id": "hiki-ashi",
+    "term": "hiki-ashi",
+    "definition": "backward step",
+    "category": "Movements"
+  },
+  {
+    "id": "hineri-ashi",
+    "term": "hineri-ashi",
+    "definition": "spin 360 degrees",
+    "category": "Movements"
+  },
+  {
+    "id": "hiraki-ashi",
+    "term": "hiraki-ashi",
+    "definition": "outside step (dodge)",
+    "category": "Movements"
+  },
+  {
+    "id": "jiku-ashi",
+    "term": "jiku-ashi",
+    "definition": "pivot foot",
+    "category": "Movements"
+  },
+  {
+    "id": "joho-kaiten-tobi",
+    "term": "joho-kaiten-tobi",
+    "definition": "launching jumping move with knee",
+    "category": "Movements"
+  },
+  {
+    "id": "jo-zukami-sonomama",
+    "term": "jo-zukami-sonomama",
+    "definition": "staff twist to rear",
+    "category": "Movements"
+  },
+  {
+    "id": "kae-ashi",
+    "term": "kae-ashi",
+    "definition": "walking step",
+    "category": "Movements"
+  },
+  {
+    "id": "keri-ashi",
+    "term": "keri-ashi",
+    "definition": "step associated with a kick",
+    "category": "Movements"
+  },
+  {
+    "id": "kosa-ashi",
+    "term": "kosa-ashi",
+    "definition": "switching side",
+    "category": "Movements"
+  },
+  {
+    "id": "mae-ashi",
+    "term": "mae-ashi",
+    "definition": "front foot/front leg",
+    "category": "Movements"
+  },
+  {
+    "id": "mawari-ashi",
+    "term": "mawari-ashi",
+    "definition": "turning on the foot (e.g. turning 180deg on rear foot)",
+    "category": "Movements"
+  },
+  {
+    "id": "mawaru",
+    "term": "mawaru",
+    "definition": "to turn or rotate oneself",
+    "category": "Movements"
+  },
+  {
+    "id": "naname-mae-sabaki",
+    "term": "naname-mae-sabaki",
+    "definition": "front evasion",
+    "category": "Movements"
+  },
+  {
+    "id": "naname-ushiro-sabaki",
+    "term": "naname-ushiro-sabaki",
+    "definition": "back evasion",
+    "category": "Movements"
+  },
+  {
+    "id": "okuri-ashi",
+    "term": "okuri-ashi",
+    "definition": "forward crossed step",
+    "category": "Movements"
+  },
+  {
+    "id": "ryoken-hikite",
+    "term": "ryoken-hikite",
+    "definition": "double pull back (chest)",
+    "category": "Movements"
+  },
+  {
+    "id": "ryote-fuse",
+    "term": "ryote-fuse",
+    "definition": "landing face down (palms down)",
+    "category": "Movements"
+  },
+  {
+    "id": "sankaku-tobi",
+    "term": "sankaku-tobi",
+    "definition": "jumping spin",
+    "category": "Movements"
+  },
+  {
+    "id": "shaho-sashi-ashi",
+    "term": "shaho-sashi-ashi",
+    "definition": "head turning crossing",
+    "category": "Movements"
+  },
+  {
+    "id": "soesho-hiki-te",
+    "term": "soesho-hiki-te",
+    "definition": "fist pull back under palm",
+    "category": "Movements"
+  },
+  {
+    "id": "tai-otoshi",
+    "term": "tai-otoshi",
+    "definition": "(flip over) knee raised from ground",
+    "category": "Movements"
+  },
+  {
+    "id": "tenkan-ashi",
+    "term": "tenkan-ashi",
+    "definition": "pivot (180 degree)",
+    "category": "Movements"
+  },
+  {
+    "id": "tenshin",
+    "term": "tenshin",
+    "definition": "body rotation",
+    "category": "Movements"
+  },
+  {
+    "id": "tobi-ashi",
+    "term": "tobi-ashi",
+    "definition": "jumping movement",
+    "category": "Movements"
+  },
+  {
+    "id": "tsugi-ashi",
+    "term": "tsugi-ashi",
+    "definition": "back foot stepping up, forward foot moves forward",
+    "category": "Movements"
+  },
+  {
+    "id": "ura-ushi-gake",
+    "term": "ura-ushi-gake",
+    "definition": "moving in reverse s along ground",
+    "category": "Movements"
+  },
+  {
+    "id": "yoko-sabaki",
+    "term": "yoko-sabaki",
+    "definition": "side evasion",
+    "category": "Movements"
+  },
+  {
+    "id": "yoko-sashi-ashi",
+    "term": "yoko-sashi-ashi",
+    "definition": "side ways step across",
+    "category": "Movements"
+  },
+  {
+    "id": "yori-ashi",
+    "term": "yori-ashi",
+    "definition": "half step, same side in front",
+    "category": "Movements"
+  },
+  {
+    "id": "yose-ashi",
+    "term": "yose-ashi",
+    "definition": "move the back leg half step",
+    "category": "Movements"
+  },
+  {
+    "id": "bassai-gamae",
+    "term": "bassai-gamae",
+    "definition": "left over right first lowered",
+    "category": "Postures"
+  },
+  {
+    "id": "empi-gamae-enpi-gamae",
+    "term": "empi-gamae / enpi-gamae",
+    "definition": "fist in of hand (as per kata)",
+    "category": "Postures"
+  },
+  {
+    "id": "gedan-gamae",
+    "term": "gedan-gamae",
+    "definition": "downward blocking posture",
+    "category": "Postures"
+  },
+  {
+    "id": "hiki-yosa-gamae",
+    "term": "hiki-yosa-gamae",
+    "definition": "pull back to chest",
+    "category": "Postures"
+  },
+  {
+    "id": "hiza-gamae",
+    "term": "hiza-gamae",
+    "definition": "knee lift posture",
+    "category": "Postures"
+  },
+  {
+    "id": "kagi-gamae",
+    "term": "kagi-gamae",
+    "definition": "flowing block posture",
+    "category": "Postures"
+  },
+  {
+    "id": "kaisho-yama-kamae",
+    "term": "kaisho-yama-kamae",
+    "definition": "hands open mountain posture",
+    "category": "Postures"
+  },
+  {
+    "id": "kaishu-kosa-gamae",
+    "term": "kaishu-kosa-gamae",
+    "definition": "both fists on hips posture",
+    "category": "Postures"
+  },
+  {
+    "id": "koho-haito",
+    "term": "koho-haito",
+    "definition": "rear ridge hand posture",
+    "category": "Postures"
+  },
+  {
+    "id": "koshi-gamae",
+    "term": "koshi-gamae",
+    "definition": "both fists on hip posture",
+    "category": "Postures"
+  },
+  {
+    "id": "ma-hanmi",
+    "term": "ma-hanmi",
+    "definition": "hips to the side posture",
+    "category": "Postures"
+  },
+  {
+    "id": "manji-gamae",
+    "term": "manji-gamae",
+    "definition": "swirling posture",
+    "category": "Postures"
+  },
+  {
+    "id": "morote-koko-gamae",
+    "term": "morote-koko-gamae",
+    "definition": "both palms grasping block (tiger mouth block)",
+    "category": "Postures"
+  },
+  {
+    "id": "muso-gamae-age-uke-gedan-uke",
+    "term": "muso-gamae (age-uke & gedan-uke)",
+    "definition": "incomparable posture (rising block & downward block)",
+    "category": "Postures"
+  },
+  {
+    "id": "ni-keito-gamae",
+    "term": "ni-keito-gamae",
+    "definition": "double chicken head wrist posture",
+    "category": "Postures"
+  },
+  {
+    "id": "rei-gamae",
+    "term": "rei-gamae",
+    "definition": "greeting posture",
+    "category": "Postures"
+  },
+  {
+    "id": "riken-gasho",
+    "term": "riken-gasho",
+    "definition": "fist in palm",
+    "category": "Postures"
+  },
+  {
+    "id": "roken-gasho",
+    "term": "roken-gasho",
+    "definition": "hands in front of chin",
+    "category": "Postures"
+  },
+  {
+    "id": "ryo-goshi-gamae",
+    "term": "ryo-goshi-gamae",
+    "definition": "pullback",
+    "category": "Postures"
+  },
+  {
+    "id": "ryo-jishi-ippon-ken-kamae",
+    "term": "ryo-jishi-ippon-ken-kamae",
+    "definition": "both one knuckle fists posture",
+    "category": "Postures"
+  },
+  {
+    "id": "ryo-kaishu-gamae",
+    "term": "ryo-kaishu-gamae",
+    "definition": "both palms wedge block",
+    "category": "Postures"
+  },
+  {
+    "id": "ryoken-koshi-gamae",
+    "term": "ryoken-koshi-gamae",
+    "definition": "fists on hip posture",
+    "category": "Postures"
+  },
+  {
+    "id": "ryoken-mune-mae-kosa",
+    "term": "ryoken-mune-mae-kosa",
+    "definition": "both fists crossed in front of chest",
+    "category": "Postures"
+  },
+  {
+    "id": "ryoken-ryokoshi-gamae",
+    "term": "ryoken-ryokoshi-gamae",
+    "definition": "both fists on both hips posture",
+    "category": "Postures"
+  },
+  {
+    "id": "ryo-seiryuto-kaiun-no-te",
+    "term": "ryo-seiryuto (kaiun-no-te)",
+    "definition": "both hands ox jaw (open cloud hands)",
+    "category": "Postures"
+  },
+  {
+    "id": "ryosho-kakiwake-kamae",
+    "term": "ryosho-kakiwake-kamae",
+    "definition": "both palms wedge posture",
+    "category": "Postures"
+  },
+  {
+    "id": "ryosho-kakiwake-uke-joshin-gamae",
+    "term": "ryosho-kakiwake-uke (joshin-gamae)",
+    "definition": "both palms triangle wedge block (mind cleaning posture)",
+    "category": "Postures"
+  },
+  {
+    "id": "ryote-hitae-mae-ue",
+    "term": "ryote-hitae-mae-ue",
+    "definition": "both hands in front and above forehead",
+    "category": "Postures"
+  },
+  {
+    "id": "ryote-kafukubu-mae",
+    "term": "ryote-kafukubu-mae",
+    "definition": "both hands in front of abdomen",
+    "category": "Postures"
+  },
+  {
+    "id": "ryote-ryoken-koshi-gamae",
+    "term": "ryote-ryoken-koshi-gamae",
+    "definition": "both hands on hip posture",
+    "category": "Postures"
+  },
+  {
+    "id": "ryowan-gamae",
+    "term": "ryowan-gamae",
+    "definition": "both fists downward to side posture",
+    "category": "Postures"
+  },
+  {
+    "id": "ryowan-zenpo-nobashi",
+    "term": "ryowan-zenpo-nobashi",
+    "definition": "both arms stretching forward",
+    "category": "Postures"
+  },
+  {
+    "id": "ryusui-no-kamae",
+    "term": "ryusui-no-kamae",
+    "definition": "(hands on) hip posture",
+    "category": "Postures"
+  },
+  {
+    "id": "shuto-gamae",
+    "term": "shuto-gamae",
+    "definition": "hand pushing",
+    "category": "Postures"
+  },
+  {
+    "id": "soete-koshi-gamae",
+    "term": "soete-koshi-gamae",
+    "definition": "face turning & fists on hip posture",
+    "category": "Postures"
+  },
+  {
+    "id": "soete-uraken-gamae",
+    "term": "soete-uraken-gamae",
+    "definition": "back hand strike posture",
+    "category": "Postures"
+  },
+  {
+    "id": "suihei-hiji-gamae",
+    "term": "suihei-hiji-gamae",
+    "definition": "horizontal elbows to side posture at chest level",
+    "category": "Postures"
+  },
+  {
+    "id": "tate-shuto-gamae",
+    "term": "tate-shuto-gamae",
+    "definition": "vertical knife posture (hand moving from centre of chest outwards)",
+    "category": "Postures"
+  },
+  {
+    "id": "tenshi-kenseitai",
+    "term": "tenshi-kenseitai",
+    "definition": "hi low feint posture",
+    "category": "Postures"
+  },
+  {
+    "id": "tsutsumi-ken",
+    "term": "tsutsumi-ken",
+    "definition": "fist under chin",
+    "category": "Postures"
+  },
+  {
+    "id": "yogoshi-gamae",
+    "term": "yogoshi-gamae",
+    "definition": "pull back",
+    "category": "Postures"
+  },
+  {
+    "id": "zenwan-mune-suhei-kamae",
+    "term": "zenwan-mune-suhei-kamae",
+    "definition": "forearm chest posture",
+    "category": "Postures"
+  },
+  {
+    "id": "zenwan-suhei-mune-kamae-mae-hiji-ate",
+    "term": "zenwan-suhei-mune-kamae (mae-hiji-ate)",
+    "definition": "forearm horizontal posture (front elbow strike)",
+    "category": "Postures"
+  },
+  {
+    "id": "age-zuki",
+    "term": "age-zuki",
+    "definition": "rising punch",
+    "category": "Punches"
+  },
+  {
+    "id": "awase-zuki",
+    "term": "awase-zuki",
+    "definition": "combined punch (u punch)",
+    "category": "Punches"
+  },
+  {
+    "id": "boshiken-zuki",
+    "term": "boshiken-zuki",
+    "definition": "punch with thumb knuckle",
+    "category": "Punches"
+  },
+  {
+    "id": "choku-zuki",
+    "term": "choku-zuki",
+    "definition": "straight punch",
+    "category": "Punches"
+  },
+  {
+    "id": "chudan-zuki",
+    "term": "chudan-zuki",
+    "definition": "middle level punch",
+    "category": "Punches"
+  },
+  {
+    "id": "dan-zuki",
+    "term": "dan-zuki",
+    "definition": "double punch",
+    "category": "Punches"
+  },
+  {
+    "id": "furi-zuki",
+    "term": "furi-zuki",
+    "definition": "sweep",
+    "category": "Punches"
+  },
+  {
+    "id": "gedan-zuki",
+    "term": "gedan-zuki",
+    "definition": "downward punch",
+    "category": "Punches"
+  },
+  {
+    "id": "gyaku-zuki",
+    "term": "gyaku-zuki",
+    "definition": "reverse punch",
+    "category": "Punches"
+  },
+  {
+    "id": "hasami-zuki",
+    "term": "hasami-zuki",
+    "definition": "scissor punch",
+    "category": "Punches"
+  },
+  {
+    "id": "heiko-tate-zuki",
+    "term": "heiko-tate-zuki",
+    "definition": "two handed parallel vertical punch",
+    "category": "Punches"
+  },
+  {
+    "id": "heiko-ura-zuki",
+    "term": "heiko-ura-zuki",
+    "definition": "parallel close punch",
+    "category": "Punches"
+  },
+  {
+    "id": "heiko-zuki",
+    "term": "heiko-zuki",
+    "definition": "parallel punch",
+    "category": "Punches"
+  },
+  {
+    "id": "hiraken-zuki",
+    "term": "hiraken-zuki",
+    "definition": "fore knuckle fist punch",
+    "category": "Punches"
+  },
+  {
+    "id": "ipponken-zuki",
+    "term": "ipponken-zuki",
+    "definition": "punch with  one knuckle extended",
+    "category": "Punches"
+  },
+  {
+    "id": "jodan-zuki",
+    "term": "jodan-zuki",
+    "definition": "upper level punch",
+    "category": "Punches"
+  },
+  {
+    "id": "jun-zuki",
+    "term": "jun-zuki",
+    "definition": "front punch",
+    "category": "Punches"
+  },
+  {
+    "id": "kagi-zuki",
+    "term": "kagi-zuki",
+    "definition": "hook punch",
+    "category": "Punches"
+  },
+  {
+    "id": "kakushi-zuki",
+    "term": "kakushi-zuki",
+    "definition": "hidden fist punch",
+    "category": "Punches"
+  },
+  {
+    "id": "kaku-zuki",
+    "term": "kaku-zuki",
+    "definition": "square punch",
+    "category": "Punches"
+  },
+  {
+    "id": "kara-choku-zuki",
+    "term": "kara / choku-zuki",
+    "definition": "straight punch",
+    "category": "Punches"
+  },
+  {
+    "id": "kawashi-zuki",
+    "term": "kawashi-zuki",
+    "definition": "dodging punch (punch to aid an evasion of attack)",
+    "category": "Punches"
+  },
+  {
+    "id": "ken-zuki",
+    "term": "ken-zuki",
+    "definition": "punch",
+    "category": "Punches"
+  },
+  {
+    "id": "kisami-zuki",
+    "term": "kisami-zuki",
+    "definition": "front hand punch",
+    "category": "Punches"
+  },
+  {
+    "id": "koko-osae-zukidashi",
+    "term": "koko-osae (zukidashi)",
+    "definition": "tiger mouth pressing (thrust)",
+    "category": "Punches"
+  },
+  {
+    "id": "kosa-zuki",
+    "term": "kosa-zuki",
+    "definition": "downward cross punch",
+    "category": "Punches"
+  },
+  {
+    "id": "maede",
+    "term": "maede",
+    "definition": "front hand – e.g. front hand punch (maede-zuki)",
+    "category": "Punches"
+  },
+  {
+    "id": "mawashi-zuki",
+    "term": "mawashi-zuki",
+    "definition": "roundhouse punch",
+    "category": "Punches"
+  },
+  {
+    "id": "morote-kizami-ura-zuki",
+    "term": "morote-kizami-ura-zuki",
+    "definition": "double front close punch",
+    "category": "Punches"
+  },
+  {
+    "id": "morote-nuki-zuki",
+    "term": "morote-nuki-zuki",
+    "definition": "double spear hand thrust",
+    "category": "Punches"
+  },
+  {
+    "id": "morote-teisho-zuki",
+    "term": "morote-teisho-zuki",
+    "definition": "double palm hand strike",
+    "category": "Punches"
+  },
+  {
+    "id": "morote-yoko-zuki",
+    "term": "morote-yoko-zuki",
+    "definition": "punch to side & hook punch",
+    "category": "Punches"
+  },
+  {
+    "id": "morote-zuki",
+    "term": "morote-zuki",
+    "definition": "double horizontal punch",
+    "category": "Punches"
+  },
+  {
+    "id": "nihon-nukite-age-zuki",
+    "term": "nihon-nukite-age-zuki",
+    "definition": "two finger spear hand rising thrust",
+    "category": "Punches"
+  },
+  {
+    "id": "nukite-zuki",
+    "term": "nukite-zuki",
+    "definition": "spear hand thrust",
+    "category": "Punches"
+  },
+  {
+    "id": "oi-zuki",
+    "term": "oi-zuki",
+    "definition": "stepping punch",
+    "category": "Punches"
+  },
+  {
+    "id": "otoshi-zuki",
+    "term": "otoshi-zuki",
+    "definition": "dropping punch",
+    "category": "Punches"
+  },
+  {
+    "id": "oyayubi-uchi",
+    "term": "oyayubi-uchi",
+    "definition": "punch with thumb extended",
+    "category": "Punches"
+  },
+  {
+    "id": "renzoku-zuki",
+    "term": "renzoku-zuki",
+    "definition": "multiple punches one after the other",
+    "category": "Punches"
+  },
+  {
+    "id": "ren-zuki",
+    "term": "ren-zuki",
+    "definition": "two punch combination",
+    "category": "Punches"
+  },
+  {
+    "id": "ryo-jishi-ippon-ken-morote-zuki",
+    "term": "ryo-jishi-ippon-ken-morote-zuki",
+    "definition": "both one knuckle fists double hand punch",
+    "category": "Punches"
+  },
+  {
+    "id": "ryotoken-zuki",
+    "term": "ryotoken-zuki",
+    "definition": "fore knuckle fist",
+    "category": "Punches"
+  },
+  {
+    "id": "ryusui-zuki",
+    "term": "ryusui-zuki",
+    "definition": "punching under palm (flowing water punch)",
+    "category": "Punches"
+  },
+  {
+    "id": "sanbon-zuki",
+    "term": "sanbon-zuki",
+    "definition": "three punch combination",
+    "category": "Punches"
+  },
+  {
+    "id": "sayu-zuki",
+    "term": "sayu-zuki",
+    "definition": "double side punch",
+    "category": "Punches"
+  },
+  {
+    "id": "seiken-zuki",
+    "term": "seiken-zuki",
+    "definition": "proper fist, straight fist, (front 2 knuckle punch)",
+    "category": "Punches"
+  },
+  {
+    "id": "shi-zuki-toride-zuki",
+    "term": "shi-zuki / toride-zuki",
+    "definition": "chicken beak thrust/bird hand strike",
+    "category": "Punches"
+  },
+  {
+    "id": "shoken-zuki",
+    "term": "shoken(-zuki)",
+    "definition": "index finger knuckle punch",
+    "category": "Punches"
+  },
+  {
+    "id": "soesho-zuki",
+    "term": "soesho-zuki",
+    "definition": "punch under palm",
+    "category": "Punches"
+  },
+  {
+    "id": "sokumen-doji-zuki",
+    "term": "sokumen-doji-zuki",
+    "definition": "double punch to sides",
+    "category": "Punches"
+  },
+  {
+    "id": "sokumen-morote-zuki",
+    "term": "sokumen-morote-zuki",
+    "definition": "side double punch",
+    "category": "Punches"
+  },
+  {
+    "id": "sokumen-zuki",
+    "term": "sokumen-zuki",
+    "definition": "side punch",
+    "category": "Punches"
+  },
+  {
+    "id": "tate-ken-gyaku-zuki",
+    "term": "tate-ken-gyaku-zuki",
+    "definition": "vertical ken reverse punch (into palm)",
+    "category": "Punches"
+  },
+  {
+    "id": "tate-zuki-tate-ken-zuki",
+    "term": "tate-zuki / tate-ken-zuki",
+    "definition": "vertical punch",
+    "category": "Punches"
+  },
+  {
+    "id": "teisho-awase-zuki",
+    "term": "teisho-awase-zuki",
+    "definition": "two handed palm heel thrust",
+    "category": "Punches"
+  },
+  {
+    "id": "teisho-zuki",
+    "term": "teisho-zuki",
+    "definition": "palm hand strike",
+    "category": "Punches"
+  },
+  {
+    "id": "tobikomi-zuki",
+    "term": "tobikomi-zuki",
+    "definition": "“leaping thrust” punch",
+    "category": "Punches"
+  },
+  {
+    "id": "tomoe-zuki",
+    "term": "tomoe-zuki",
+    "definition": "circular block and punch",
+    "category": "Punches"
+  },
+  {
+    "id": "toride-zuki-shi-zuki",
+    "term": "toride-zuki / shi-zuki",
+    "definition": "bird hand striking/chicken beak thrusts",
+    "category": "Punches"
+  },
+  {
+    "id": "toshi-zuki",
+    "term": "toshi-zuki",
+    "definition": "downward strike",
+    "category": "Punches"
+  },
+  {
+    "id": "tsuki-zuki",
+    "term": "tsuki / zuki",
+    "definition": "punch",
+    "category": "Punches"
+  },
+  {
+    "id": "uke-zuki",
+    "term": "uke-zuki",
+    "definition": "blocking punch",
+    "category": "Punches"
+  },
+  {
+    "id": "uraken-zuki",
+    "term": "uraken-zuki",
+    "definition": "inverted punch",
+    "category": "Punches"
+  },
+  {
+    "id": "ura-uchi-zuki",
+    "term": "ura-uchi-zuki",
+    "definition": "close punch",
+    "category": "Punches"
+  },
+  {
+    "id": "ura-zuki",
+    "term": "ura-zuki",
+    "definition": "uppercut",
+    "category": "Punches"
+  },
+  {
+    "id": "ushiro-zuki",
+    "term": "ushiro-zuki",
+    "definition": "punch to the rear",
+    "category": "Punches"
+  },
+  {
+    "id": "wari-uke-zuki",
+    "term": "wari-uke-zuki",
+    "definition": "split block punch",
+    "category": "Punches"
+  },
+  {
+    "id": "yama-zuki",
+    "term": "yama-zuki",
+    "definition": "wide u punch to face and midsection (mountain punch)",
+    "category": "Punches"
+  },
+  {
+    "id": "yoko-zuki",
+    "term": "yoko-zuki",
+    "definition": "side punch",
+    "category": "Punches"
+  },
+  {
+    "id": "yumi-zuki",
+    "term": "yumi-zuki",
+    "definition": "bow punch (one first front & one pulled back to chest)",
+    "category": "Punches"
+  },
+  {
+    "id": "tsuki-zuki",
+    "term": "tsuki (zuki)",
+    "definition": "punch",
+    "category": "Punches"
+  },
+  {
+    "id": "zuki-uke",
+    "term": "zuki-uke",
+    "definition": "punch block",
+    "category": "Punches"
+  },
+  {
+    "id": "gyaku-zenkutsu-dachi",
+    "term": "gyaku-zenkutsu-dachi",
+    "definition": "reverse front stance (feet in same position, body turned other way)",
+    "category": "Stances"
+  },
+  {
+    "id": "hachiji-dachi-shizentai-dachi",
+    "term": "hachiji-dachi / shizentai-dachi",
+    "definition": "natural stance",
+    "category": "Stances"
+  },
+  {
+    "id": "hangetsu-dachi",
+    "term": "hangetsu-dachi",
+    "definition": "half moon stance",
+    "category": "Stances"
+  },
+  {
+    "id": "han-zenkutsu-dachi",
+    "term": "han-zenkutsu-dachi-",
+    "definition": "shortened front stance",
+    "category": "Stances"
+  },
+  {
+    "id": "heiko-dachi",
+    "term": "heiko-dachi",
+    "definition": "parallel stance",
+    "category": "Stances"
+  },
+  {
+    "id": "heisoku-dachi",
+    "term": "heisoku-dachi",
+    "definition": "closed leg stance",
+    "category": "Stances"
+  },
+  {
+    "id": "hiza-kakushi-kosa-dachi",
+    "term": "hiza-kakushi-kosa-dachi",
+    "definition": "hidden knee stance",
+    "category": "Stances"
+  },
+  {
+    "id": "hiza-kutsu",
+    "term": "hiza-kutsu",
+    "definition": "knee bend (stance)",
+    "category": "Stances"
+  },
+  {
+    "id": "iaigoshi-dachi-hiza-dachi",
+    "term": "iaigoshi-dachi / hiza-dachi",
+    "definition": "one leg kneeling stance",
+    "category": "Stances"
+  },
+  {
+    "id": "ippon-ashi-dachi",
+    "term": "ippon-ashi-dachi",
+    "definition": "one leg stance",
+    "category": "Stances"
+  },
+  {
+    "id": "jigotai-dachi",
+    "term": "jigotai-dachi",
+    "definition": "wide open leg stance",
+    "category": "Stances"
+  },
+  {
+    "id": "kamae-dachi",
+    "term": "kamae-dachi",
+    "definition": "ready stance",
+    "category": "Stances"
+  },
+  {
+    "id": "katahiza-dachi",
+    "term": "katahiza-dachi",
+    "definition": "half kneeling stance",
+    "category": "Stances"
+  },
+  {
+    "id": "kiba-dachi",
+    "term": "kiba-dachi",
+    "definition": "horse stance/ horse riding stance",
+    "category": "Stances"
+  },
+  {
+    "id": "kokutsu-dachi",
+    "term": "kokutsu-dachi",
+    "definition": "back stance",
+    "category": "Stances"
+  },
+  {
+    "id": "kosa-dachi",
+    "term": "kosa-dachi",
+    "definition": "crossing stance",
+    "category": "Stances"
+  },
+  {
+    "id": "mae-kosa-dachi",
+    "term": "mae-kosa-dachi",
+    "definition": "front crossing stance",
+    "category": "Stances"
+  },
+  {
+    "id": "moro-ashi-dachi",
+    "term": "moro-ashi-dachi",
+    "definition": "one foot forward stance",
+    "category": "Stances"
+  },
+  {
+    "id": "moto-dachi",
+    "term": "moto-dachi",
+    "definition": "foundation stance (‘base’ stance)",
+    "category": "Stances"
+  },
+  {
+    "id": "musubi-dachi",
+    "term": "musubi-dachi",
+    "definition": "standing stance",
+    "category": "Stances"
+  },
+  {
+    "id": "naihanchi-dachi",
+    "term": "naihanchi-dachi",
+    "definition": "straddle stance",
+    "category": "Stances"
+  },
+  {
+    "id": "naname-shiko-dachi",
+    "term": "naname-shiko-dachi",
+    "definition": "shiko-dachi stance at an angle",
+    "category": "Stances"
+  },
+  {
+    "id": "naname-zenkutsu-dachi",
+    "term": "naname-zenkutsu-dachi",
+    "definition": "slanted front leg bent stance (lit. diagonal front ducking stance)",
+    "category": "Stances"
+  },
+  {
+    "id": "neko-ashi-dachi",
+    "term": "neko-ashi-dachi",
+    "definition": "cat stance",
+    "category": "Stances"
+  },
+  {
+    "id": "renoji-dachi",
+    "term": "renoji-dachi",
+    "definition": "l stance",
+    "category": "Stances"
+  },
+  {
+    "id": "ryote-fuse-dachi",
+    "term": "ryote-fuse-dachi",
+    "definition": "low stance with both hands on the floor (usually ready to strike with back foot)",
+    "category": "Stances"
+  },
+  {
+    "id": "sagi-ashi-dachi",
+    "term": "sagi-ashi-dachi",
+    "definition": "heron leg stance",
+    "category": "Stances"
+  },
+  {
+    "id": "sanchin-dachi",
+    "term": "sanchin-dachi",
+    "definition": "hourglass stance (three battles stance)",
+    "category": "Stances"
+  },
+  {
+    "id": "seisan-dachi",
+    "term": "seisan-dachi",
+    "definition": "‘natural’ stance",
+    "category": "Stances"
+  },
+  {
+    "id": "shiko-dachi-jigotai-dachi",
+    "term": "shiko-dachi / jigotai-dachi",
+    "definition": "square stance",
+    "category": "Stances"
+  },
+  {
+    "id": "sochin-dachi-fudo-dachi",
+    "term": "sochin-dachi / fudo-dachi",
+    "definition": "immovable stance",
+    "category": "Stances"
+  },
+  {
+    "id": "soeashi-dachi",
+    "term": "soeashi-dachi",
+    "definition": "reversed cat stance – flat front foot and heel raised on back front",
+    "category": "Stances"
+  },
+  {
+    "id": "sonkyo-dachi",
+    "term": "sonkyo-dachi",
+    "definition": "formal squatting stance- squatting down on the balls of the feet and resting hips on back of the feet",
+    "category": "Stances"
+  },
+  {
+    "id": "soto-hachiji-dachi",
+    "term": "soto-hachiji-dachi",
+    "definition": "another name for hachiji-dachi",
+    "category": "Stances"
+  },
+  {
+    "id": "suegoshi-dachi",
+    "term": "suegoshi-dachi",
+    "definition": "fudo-dachi with the front foot is turned forward",
+    "category": "Stances"
+  },
+  {
+    "id": "teiji-dachi-teidji-dachi",
+    "term": "teiji-dachi / teidji-dachi",
+    "definition": "t stance",
+    "category": "Stances"
+  },
+  {
+    "id": "tsuru-ashi-dachi-gankaku-dachi",
+    "term": "tsuru-ashi-dachi / gankaku-dachi",
+    "definition": "crane stance",
+    "category": "Stances"
+  },
+  {
+    "id": "uchi-hachiji-dachi",
+    "term": "uchi-hachiji-dachi",
+    "definition": "position with feet turned in",
+    "category": "Stances"
+  },
+  {
+    "id": "uchi-hachinoji-dachi",
+    "term": "uchi-hachinoji-dachi",
+    "definition": "inward natural stance",
+    "category": "Stances"
+  },
+  {
+    "id": "ukiashi-dachi",
+    "term": "ukiashi-dachi",
+    "definition": "upright cat stance",
+    "category": "Stances"
+  },
+  {
+    "id": "yokomuki-shiko-dachi",
+    "term": "yokomuki-shiko-dachi",
+    "definition": "shiko-dachi stance but facing to the side",
+    "category": "Stances"
+  },
+  {
+    "id": "zawan-dachi",
+    "term": "zawan-dachi",
+    "definition": "feet wide-apart crossing stance",
+    "category": "Stances"
+  },
+  {
+    "id": "zenkutsu-dachi",
+    "term": "zenkutsu-dachi",
+    "definition": "front stance",
+    "category": "Stances"
+  },
+  {
+    "id": "age-empi-uchi",
+    "term": "age-empi-uchi",
+    "definition": "rising elbow strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "awase-shuto-uchi",
+    "term": "awase-shuto-uchi",
+    "definition": "level two handed strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "boshiken-uchi",
+    "term": "boshiken-uchi",
+    "definition": "thumb fist (thumb knuckle) strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "chakuchi",
+    "term": "chakuchi",
+    "definition": "lunge",
+    "category": "Strikes"
+  },
+  {
+    "id": "empi-uchi",
+    "term": "empi-uchi",
+    "definition": "elbow strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "gaiwan-uchi",
+    "term": "gaiwan-uchi",
+    "definition": "strike with outer side of arm",
+    "category": "Strikes"
+  },
+  {
+    "id": "gedan-nukite",
+    "term": "gedan-nukite",
+    "definition": "knife hand thrusting strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "haishu-uchi",
+    "term": "haishu-uchi",
+    "definition": "back of hand strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "haito-soto-mawashi-uchi",
+    "term": "haito-soto-mawashi-uchi",
+    "definition": "outside ridge hand strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "haito-uchi",
+    "term": "haito-uchi",
+    "definition": "sweeping ridge hand strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "hasami-uchi",
+    "term": "hasami-uchi",
+    "definition": "scissor strike between the thumb and index finger",
+    "category": "Strikes"
+  },
+  {
+    "id": "hiji-ate",
+    "term": "hiji-ate",
+    "definition": "elbow strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "hiji-uchi",
+    "term": "hiji-uchi",
+    "definition": "elbow strikes",
+    "category": "Strikes"
+  },
+  {
+    "id": "hira-basami-uchi",
+    "term": "hira-basami-uchi",
+    "definition": "“flat scissor” strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "hirate-otoshi-uchi",
+    "term": "hirate-otoshi-uchi",
+    "definition": "downward block",
+    "category": "Strikes"
+  },
+  {
+    "id": "hirate-uchi",
+    "term": "hirate-uchi",
+    "definition": "strike with palm or slap",
+    "category": "Strikes"
+  },
+  {
+    "id": "hiza-ate",
+    "term": "hiza-ate",
+    "definition": "strike with knee",
+    "category": "Strikes"
+  },
+  {
+    "id": "ippon-ken",
+    "term": "ippon-ken",
+    "definition": "index finger strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "ippon-nukite",
+    "term": "ippon-nukite",
+    "definition": "one finger extended strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "jo-sukami-zuki-otoshi",
+    "term": "jo-sukami-zuki-otoshi",
+    "definition": "staff grab and thrust",
+    "category": "Strikes"
+  },
+  {
+    "id": "jo-zukami",
+    "term": "jo-zukami",
+    "definition": "staff twist and thrust",
+    "category": "Strikes"
+  },
+  {
+    "id": "kaisho-uchi",
+    "term": "kaisho-uchi",
+    "definition": "strikes with the open hand",
+    "category": "Strikes"
+  },
+  {
+    "id": "kakushiken-uchi",
+    "term": "kakushiken-uchi",
+    "definition": "crane’s beak fist strike – strike with knuckles in bend hand position",
+    "category": "Strikes"
+  },
+  {
+    "id": "kami-zukami",
+    "term": "kami-zukami",
+    "definition": "hair grab & drive knee upwards",
+    "category": "Strikes"
+  },
+  {
+    "id": "kasumi-uchi",
+    "term": "kasumi-uchi",
+    "definition": "backhand strike across the opponents eyes",
+    "category": "Strikes"
+  },
+  {
+    "id": "kensei-hirate-komata-uchi",
+    "term": "kensei-hirate-komata-uchi",
+    "definition": "inner thigh slap feint",
+    "category": "Strikes"
+  },
+  {
+    "id": "kentsui-uchi",
+    "term": "kentsui-uchi",
+    "definition": "hammer fist strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "koi-no-shippo-ucho",
+    "term": "koi-no-shippo-ucho",
+    "definition": "carp tail strike – bent wrist strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "koken-uchi",
+    "term": "koken-uchi-",
+    "definition": "crane head strike / bent wrist strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "kote-uch",
+    "term": "kote-uch",
+    "definition": "back of hand (or arm) strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "kumade-uchi",
+    "term": "kumade-uchi",
+    "definition": "bear hand",
+    "category": "Strikes"
+  },
+  {
+    "id": "kyobu-morote-shuto-uchi",
+    "term": "kyobu-morote-shuto-uchi",
+    "definition": "double knife hand strike (to the chest area)",
+    "category": "Strikes"
+  },
+  {
+    "id": "kyobu-shuto-uchi",
+    "term": "kyobu-shuto-uchi",
+    "definition": "knife hand strike (to the chest area)",
+    "category": "Strikes"
+  },
+  {
+    "id": "kyobu-soete-shuto-uchi",
+    "term": "kyobu-soete-shuto-uchi",
+    "definition": "augmented knife hand strike (to the chest area)",
+    "category": "Strikes"
+  },
+  {
+    "id": "mae-empi",
+    "term": "mae-empi",
+    "definition": "front elbow strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "mae-empi-uchi",
+    "term": "mae-empi-uchi",
+    "definition": "front elbow strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "mawashi-empi",
+    "term": "mawashi-empi",
+    "definition": "round elbow strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "mawashi-hiji-ate",
+    "term": "mawashi-hiji-ate",
+    "definition": "circular elbow strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "morote-gedan-ippon-nukite",
+    "term": "morote-gedan ippon-nukite",
+    "definition": "both downward one finger spear hand strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "morote-nukite-uchi",
+    "term": "morote-nukite-uchi",
+    "definition": "double spear hand strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "morote-seiryuto-uchi",
+    "term": "morote-seiryuto-uchi",
+    "definition": "two handed ox jaw strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "morote-uchi",
+    "term": "morote-uchi",
+    "definition": "two-handed strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "morote-yonhon-nukite",
+    "term": "morote-yonhon-nukite",
+    "definition": "lower level double four fingered spear hand strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "naiwan-uchi",
+    "term": "naiwan-uchi",
+    "definition": "inner arm strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "nakadaka-ippon-ken",
+    "term": "nakadaka-ippon-ken",
+    "definition": "middle finger knuckle fist strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "nakadaka-ippon-ken-gyaku-furi-otoshi",
+    "term": "nakadaka-ippon-ken-gyaku-furi-otoshi",
+    "definition": "swinging one knuckle strike (on top back of other hand)",
+    "category": "Strikes"
+  },
+  {
+    "id": "nihon-nukite",
+    "term": "nihon-nukite",
+    "definition": "two finger strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "nukite-uchi-gedan",
+    "term": "nukite-uchi-gedan",
+    "definition": "downward spear hand strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "otoshi-empi-uchi",
+    "term": "otoshi-empi-uchi",
+    "definition": "dropping elbow strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "oyayubi-ippon-ken",
+    "term": "oyayubi-ippon-ken",
+    "definition": "thumb fist (thumb knuckle)",
+    "category": "Strikes"
+  },
+  {
+    "id": "sasae-hiji-ate",
+    "term": "sasae-hiji-ate",
+    "definition": "assisted elbow strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "seiryuto-uchi",
+    "term": "seiryuto-uchi",
+    "definition": "wrist bone strike or an ox jaw strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "shihon-nukite",
+    "term": "shihon-nukite",
+    "definition": "four finger spear hand strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "shihon-tate-nukite",
+    "term": "shihon-tate-nukite",
+    "definition": "vertical 4 finger spear hand strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "shotei-uchi",
+    "term": "shotei-uchi",
+    "definition": "palm heel strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "shuto-soto-uchi",
+    "term": "shuto-soto-uchi",
+    "definition": "outside knife hand strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "shuto-uchi",
+    "term": "shuto-uchi",
+    "definition": "knife hand strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "shuto-uchikomi",
+    "term": "shuto-uchikomi",
+    "definition": "lower knife hand thrusting strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "shuwan-uchi",
+    "term": "shuwan-uchi",
+    "definition": "strike with the underside of the arm",
+    "category": "Strikes"
+  },
+  {
+    "id": "soete-mae-empi-uchi",
+    "term": "soete-mae-empi-uchi",
+    "definition": "front elbow strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "sokumen-empi-uchi",
+    "term": "sokumen-empi-uchi",
+    "definition": "side elbow strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "sokumen-tate-empi-uchi",
+    "term": "sokumen-tate-empi-uchi",
+    "definition": "side vertical elbow strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "sokumen-tettsui-otoshi-uchi",
+    "term": "sokumen-tettsui-otoshi-uchi",
+    "definition": "side downward hammer fist strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "soto-shuto-uchi",
+    "term": "soto-shuto-uchi",
+    "definition": "upwards palm block",
+    "category": "Strikes"
+  },
+  {
+    "id": "tate-empi-uchi",
+    "term": "tate-empi-uchi",
+    "definition": "vertical back fist",
+    "category": "Strikes"
+  },
+  {
+    "id": "tate-hiji-ate",
+    "term": "tate-hiji-ate",
+    "definition": "upward elbow strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "tate-mawashi-tettsui-uchi",
+    "term": "tate-mawashi-tettsui-uchi",
+    "definition": "vertical downward inside hammer fist strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "tate-nukite",
+    "term": "tate-nukite",
+    "definition": "vertical 4 finger spear hand strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "tate-uraken-uchi",
+    "term": "tate-uraken-uchi",
+    "definition": "vertical backfist strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "teisho-furi-uchi",
+    "term": "teisho-furi-uchi",
+    "definition": "swinging palm heel strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "teisho-tate-hasami-uchi",
+    "term": "teisho-tate-hasami-uchi",
+    "definition": "vertical pal heel scissors strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "teisho-uchi",
+    "term": "teisho-uchi",
+    "definition": "palm heel strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "teisho-yoko-uchi",
+    "term": "teisho-yoko-uchi",
+    "definition": "palm heel strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "teko-uchi-haishu-age-uchi",
+    "term": "teko-uchi (haishu-age-uchi)",
+    "definition": "backhand strike (backhand rising strike)",
+    "category": "Strikes"
+  },
+  {
+    "id": "tettsui-hasami-uchi",
+    "term": "tettsui-hasami-uchi",
+    "definition": "double hammer fist scissor strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "tettsui-uchi",
+    "term": "tettsui-uchi",
+    "definition": "inside hammer fist strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "tettsui-yoko-uchi",
+    "term": "tettsui-yoko-uchi",
+    "definition": "sideways hammer fist strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "uchi",
+    "term": "uchi",
+    "definition": "strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "uchi-waza",
+    "term": "uchi-waza",
+    "definition": "techniques for striking",
+    "category": "Strikes"
+  },
+  {
+    "id": "uraken-tate-mawashi-uchi",
+    "term": "uraken-tate-mawashi-uchi",
+    "definition": "vertical back fist strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "uraken-tate-uchi",
+    "term": "uraken-tate-uchi",
+    "definition": "vertical round back fist strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "uraken-uchi",
+    "term": "uraken-uchi",
+    "definition": "back fist strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "ushiro-empi-uchi",
+    "term": "ushiro-empi-uchi",
+    "definition": "backwards elbow strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "ushiro-hiji-ate",
+    "term": "ushiro-hiji-ate",
+    "definition": "backward elbow strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "ushiro-tettsui-hasami-uchi",
+    "term": "ushiro-tettsui-hasami-uchi",
+    "definition": "double reverse hammer fist scissors strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "washide-age-uchi",
+    "term": "washide-age-uchi",
+    "definition": "eagle hand rising thrust",
+    "category": "Strikes"
+  },
+  {
+    "id": "washide-otoshi-uchi",
+    "term": "washide-otoshi-uchi",
+    "definition": "eagle hand downward strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "washide-uchi",
+    "term": "washide-uchi",
+    "definition": "eagle beak strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "yoko-empi-uchi",
+    "term": "yoko-empi-uchi",
+    "definition": "sideways elbow strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "yoko-hiji-ate",
+    "term": "yoko-hiji-ate",
+    "definition": "side elbow striking",
+    "category": "Strikes"
+  },
+  {
+    "id": "yoko-mawashi-uraken",
+    "term": "yoko-mawashi-uraken",
+    "definition": "sideways back fist strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "yoko-nukite-hira-nukite",
+    "term": "yoko-nukite (hira-nukite)",
+    "definition": "sideways (flat) spear hand strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "yoko-shuto-uchi",
+    "term": "yoko-shuto-uchi",
+    "definition": "side knife hand strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "yonhon-nukite",
+    "term": "yonhon-nukite",
+    "definition": "four finger spear hand strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "yubi-hasami-uchi",
+    "term": "yubi-hasami-uchi",
+    "definition": "“finger scissor strike”- strike with the thumb and index finger",
+    "category": "Strikes"
+  },
+  {
+    "id": "yubisaki-uchi",
+    "term": "yubisaki-uchi",
+    "definition": "fingertip strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "zenwan-uchi-otoshi",
+    "term": "zenwan-uchi-otoshi",
+    "definition": "forearm falling strike",
+    "category": "Strikes"
+  },
+  {
+    "id": "zutsuki",
+    "term": "zutsuki",
+    "definition": "headbutt",
+    "category": "Strikes"
+  },
+  {
+    "id": "ashi-barai",
+    "term": "ashi-barai",
+    "definition": "leg sweep",
+    "category": "Sweeps"
+  },
+  {
+    "id": "deashi-barai",
+    "term": "deashi-barai",
+    "definition": "foot sweep",
+    "category": "Sweeps"
+  },
+  {
+    "id": "moro-ashi-barai",
+    "term": "moro-ashi-barai",
+    "definition": "two-legged sweep",
+    "category": "Sweeps"
+  },
+  {
+    "id": "morote-enchin-haito-barai",
+    "term": "morote-enchin-haito-barai",
+    "definition": "two handed centrifugal ridge hand sweep",
+    "category": "Sweeps"
+  },
+  {
+    "id": "soto-ashi-barai",
+    "term": "soto-ashi-barai",
+    "definition": "sweep from outside to inside",
+    "category": "Sweeps"
+  },
+  {
+    "id": "tobi-ashi-barai",
+    "term": "tobi-ashi-barai",
+    "definition": "jumping leg sweep",
+    "category": "Sweeps"
+  },
+  {
+    "id": "ushiro-ashi-barai",
+    "term": "ushiro-ashi-barai",
+    "definition": "back sweep",
+    "category": "Sweeps"
+  }
+]

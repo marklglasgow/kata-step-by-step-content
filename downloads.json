@@ -1,0 +1,26 @@
+[
+  {
+    "id": "all-kata-diagrams",
+    "title": "Kata Diagrams Book",
+    "description": "The complete book of all kata diagrams across all styles.",
+    "url": "https://katastepbystep.com/wp-content/uploads/2025/08/ksbsbooklet_v1_3_4.pdf",
+    "format": "pdf",
+    "free": true
+  },
+  {
+    "id": "beginner-shotokan-kata",
+    "title": "Beginner Shotokan Kata",
+    "description": "A book of beginner Shotokan kata diagrams including the Taikyoku series.",
+    "url": "https://katastepbystep.com/wp-content/uploads/2025/01/ksbs-beginner-shotokan-kata-v1_01.pdf",
+    "format": "pdf",
+    "free": true
+  },
+  {
+    "id": "karate-history-book",
+    "title": "A Compiled History of Karate",
+    "description": "A comprehensive compiled history of karate, its styles and masters.",
+    "url": "https://katastepbystep.com/wp-content/uploads/2025/11/a-compiled-history-of-karate-2.pdf",
+    "format": "pdf",
+    "free": true
+  }
+]

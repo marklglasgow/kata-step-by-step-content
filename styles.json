@@ -1,0 +1,82 @@
+[
+  {
+    "id": "shotokan",
+    "name": "Shōtōkan",
+    "name_kanji": "松濤館",
+    "founder": "Gichin Funakoshi",
+    "description": "",
+    "variant_only": false
+  },
+  {
+    "id": "goju-ryu",
+    "name": "Gōjū-ryū",
+    "name_kanji": "剛柔流",
+    "founder": "Chojun Miyagi",
+    "description": "",
+    "variant_only": false
+  },
+  {
+    "id": "isshin-ryu",
+    "name": "Isshin-ryū",
+    "name_kanji": "一心流",
+    "founder": "Tatsuo Shimabuku",
+    "description": "",
+    "variant_only": false
+  },
+  {
+    "id": "kyokushin",
+    "name": "Kyokushin",
+    "name_kanji": "極真",
+    "founder": "Mas Oyama",
+    "description": "",
+    "variant_only": false
+  },
+  {
+    "id": "matsubayashi-ryu",
+    "name": "Matsubayashi-ryū",
+    "name_kanji": "松林流",
+    "founder": "Shoshin Nagamine",
+    "description": "",
+    "variant_only": true
+  },
+  {
+    "id": "ryuei-ryu",
+    "name": "Ryūei-ryū",
+    "name_kanji": "劉衛流",
+    "founder": "Norisato Nakaima",
+    "description": "",
+    "variant_only": false
+  },
+  {
+    "id": "shito-ryu",
+    "name": "Shitō-ryū",
+    "name_kanji": "糸東流",
+    "founder": "Kenwa Mabuni",
+    "description": "",
+    "variant_only": false
+  },
+  {
+    "id": "shorin-ryu",
+    "name": "Shōrin-ryū",
+    "name_kanji": "少林流",
+    "founder": "Choshin Chibana",
+    "description": "",
+    "variant_only": false
+  },
+  {
+    "id": "uechi-ryu",
+    "name": "Uechi-ryū",
+    "name_kanji": "上地流",
+    "founder": "Kanbun Uechi",
+    "description": "",
+    "variant_only": false
+  },
+  {
+    "id": "wado-ryu",
+    "name": "Wadō-ryū",
+    "name_kanji": "和道流",
+    "founder": "Hironori Otsuka",
+    "description": "",
+    "variant_only": true
+  }
+]

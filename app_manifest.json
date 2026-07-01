@@ -1,0 +1,43 @@
+{
+  "content_version": "2026.07.6",
+  "min_app_version": "1.0.0",
+  "generated_at": "2026-07-01T15:01:28.241753+00:00",
+  "featured_kata_id": "heian-shodan",
+  "files": {
+    "kata": {
+      "version": "2026.07.6",
+      "checksum": "sha256:b3756a583f40e4623bb59da1601bf986377e17c5d203e02d7acb6e0b8e49c72e",
+      "count": 150
+    },
+    "styles": {
+      "version": "2026.07.6",
+      "checksum": "sha256:9f512901379bea0fca4dffe71f3eb30dd7d5737c7c5bf939ec006e3966c5ad56",
+      "count": 10
+    },
+    "history": {
+      "version": "2026.07.6",
+      "checksum": "sha256:27e89c1c49343f5b3591a205a90f0ea25ca16c48ace7385a5ace081d6a366094",
+      "count": 7
+    },
+    "masters": {
+      "version": "2026.07.6",
+      "checksum": "sha256:210a9eee9c283d785454b6077b09f0bfef3467bbfe6c12e61f21d483e644a737",
+      "count": 31
+    },
+    "glossary": {
+      "version": "2026.07.6",
+      "checksum": "sha256:fa8a8303d42864cf6673f07c74578b6a6f45db7c8ae4db025381c58b405ec2e8",
+      "count": 605
+    },
+    "reference": {
+      "version": "2026.07.6",
+      "checksum": "sha256:4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "count": 0
+    },
+    "downloads": {
+      "version": "2026.07.6",
+      "checksum": "sha256:e0bbde0b95b058aa1267486d7fd6f9fc71d8125c9e71ab35ce75cc173841f9c6",
+      "count": 3
+    }
+  }
+}
